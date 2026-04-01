@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# Caches
+retrieval_cache/
+.cache/
+
+# Generated outputs
+generated_reports/
+*.docx
+
+# Temporary files
+tmp/
+temp/
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# SQLite / local DB
+*.db
+*.sqlite3
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Misc
+*.bak
+*.old
