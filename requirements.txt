@@ -1,7 +1,0 @@
-agent-framework --pre
-openai
-python-dotenv
-requests
-beautifulsoup4
-pydantic
-python-docx
