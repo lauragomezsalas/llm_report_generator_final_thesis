@@ -1,4 +1,5 @@
-agent-framework --pre
+--pre
+agent-framework
 openai
 python-dotenv
 requests
