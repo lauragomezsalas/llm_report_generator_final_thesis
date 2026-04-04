@@ -1,4 +1,4 @@
-agent-framework --pre
+agent-framework>=1.0.0
 openai
 python-dotenv
 requests
