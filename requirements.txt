@@ -1,5 +1,5 @@
-agent-framework --pre
-openai
+streamlit
+openai>=1.30.0
 python-dotenv
 requests
 beautifulsoup4
@@ -7,4 +7,4 @@ pydantic
 python-docx
 dspy>=3.1,<4.0
 tiktoken
-streamlit
+agent-framework
