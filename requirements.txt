@@ -1,4 +1,4 @@
-streamlit
+agent-framework
 openai>=1.30.0
 python-dotenv
 requests
@@ -7,4 +7,4 @@ pydantic
 python-docx
 dspy>=3.1,<4.0
 tiktoken
-agent-framework
+streamlit
